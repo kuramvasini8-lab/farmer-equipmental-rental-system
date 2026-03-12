@@ -1,0 +1,51 @@
+                                                     FARMER EQUIPMENT RENTAL SYSTEM
+
+ABOUT:
+
+The Farmer Equipment Rental System is a web-based platform developed to bridge the gap between agricultural equipment owners and farmers. 
+This is very useful to agriculture sector.
+
+1.The system allows owners to register and list their farming machinery for rent.
+
+2.The Farmers can browse available equipment, place rental orders, and leave feedback. 
+
+3.This platform promotes shared resource usage, making expensive equipment more accessible and boosting agricultural productivity in rural areas.
+
+TECHNOLOGIES USED:
+
+Frontend: HTML, CSS, JavaScript
+
+Backend: Python (Flask)
+
+Database: MySQL
+
+Tools & Libraries: Anaconda, jQuery, Bootstrap, Font Awesome , Magnific Popup, Flask extensions
+  
+HOW TO USE OUR PROJECT:
+
+STEP 1: Clone or download the repository.
+
+STEP 2: Install Anaconda or ensure Python is installed.
+
+STEP 3: Create a virtual environment (optional but recommended).
+
+STEP 4: Install required libraries using:
+
+pip install flask mysqlclient
+
+STEP 5: Import the database (farmarbook) into MySQL.
+
+STEP 6: Run the Flask app:
+
+python app.py
+
+STEP 7: Open http://127.0.0.1:5000 in any browser.
+
+STEP 8: There opens Homepage of our project where you can see Owner and Customer sections
+
+STEP 9: For Owners: Register → Upload Equipment → View Requests → Accept Orders
+
+STEP 10: For Customers: Register → Browse Products → Add to Cart → Place Order → Give Feedback
+
+
+
