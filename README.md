@@ -1,1 +1,0 @@
-# farmer-equipmental-rental-system
